@@ -389,4 +389,4 @@ d:/GAIN/Projects/Credit-Gate
 
 ## 10. License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+Free to use and Modify
