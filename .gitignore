@@ -1,0 +1,28 @@
+# Maven build output
+target/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+.vscode/
+.sts4-cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Crash logs
+clearpath.log
