@@ -1,6 +1,6 @@
 # CreditGate — Loan/Credit Approval Engine
 
-A Spring Boot REST API that evaluates loan applications against a pluggable rule engine, assigns risk-based interest rate tiers, and records a full audit trail for every decision.
+A Java REST API that evaluates loan applications against a pluggable rule engine, assigns risk-based interest rate tiers, and records a full audit trail for every decision.
 
 [![Java 17](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
 [![Spring Boot 3.3.x](https://img.shields.io/badge/Spring_Boot-3.3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
