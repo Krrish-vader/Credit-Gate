@@ -253,10 +253,7 @@ This interface allows you to submit applications and view their audit trail inte
 | :--- | :--- | :--- |
 | **Language** | Java 17 | Core programming language |
 | **Framework** | Spring Boot 3.3.2 | Application container & dependency injection |
-| **ORM** | Spring Data JPA / Hibernate | Object-Relational Mapping framework |
 | **Database** | PostgreSQL 16 | Relational persistent store |
-| **Migrations** | Flyway 10 | Version-controlled database migrations |
-| **Validation** | Jakarta Bean Validation | Input constraint enforcement |
 | **Metrics & Health** | Spring Boot Actuator | Exposes application status checks |
 | **API Documentation** | Springdoc OpenAPI / Swagger UI | Interactive endpoint testing and specs |
 | **Testing** | JUnit 5 + Mockito + MockMvc | Automated unit and web layer integration tests |
